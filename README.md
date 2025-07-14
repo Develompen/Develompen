@@ -54,15 +54,15 @@
 ## 📈 GitHub Статистика
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadbekaliboev&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Develompen&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=asadbekaliboev&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Develompen&locale=ru&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asadbekaliboev&layout=compact&langs_count=5&theme=dracula&card_width=320" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Develompen&layout=compact&langs_count=5&theme=dracula&card_width=320" alt="Top Langs" />
 </p>
 
 ---
