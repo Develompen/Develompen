@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://vitejs.dev/logo-with-shadow.png" width="40" height="40" alt="Vite" />
+  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite Logo" />
 </p>
 
 ---
